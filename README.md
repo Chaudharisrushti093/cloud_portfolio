@@ -7,3 +7,7 @@ This portfolio showcases four DecodeLabs projects:
 4. AWS Lambda Serverless Project
 
 The descriptions reflect the technologies used in the projects.
+
+## ## Live Website
+[Visit Website]
+(https://chaudharisrushti093.github.io/cloud_portfolio/)
